@@ -2,6 +2,7 @@
 function convertToInt(str) {
     return parseInt(str, 16);
 }
+
 convertToInt("BA");
 console.log(convertToInt("BA"));
 console.log(convertToInt("F1"));
